@@ -18,6 +18,14 @@ You can rotate, translate and resize the objects (pieces of the star) choosing t
 
 -CriaMenu(): you can choose the color of the borders and fullscreen on window with a right click;
 
-Everything is based on loops, so this small application can demonstrate a few functionalities you can have with OpenGL;
+Everything is based on loops, so this small application can demonstrate a few functionalities of OpenGL;
 
-![alt tag](https://github.com/patriciadourado/first-openGL-app/img/img1.png)
+![alt tag](https://github.com/patriciadourado/first-openGL-app/blob/master/img/img1.png)
+
+Rotating and moving:
+
+![alt tag](https://github.com/patriciadourado/first-openGL-app/blob/master/img/img2.png)
+
+Changing color and option to fullscreen(tela cheia):
+
+![alt tag](https://github.com/patriciadourado/first-openGL-app/blob/master/img/img3.png)
